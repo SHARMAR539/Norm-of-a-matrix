@@ -14,6 +14,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Developed By: Sharma R
 # 1-Norm of a Matrix
 ```
+# 1-Norm of Matrix
 ```
 import numpy as np
 mat=eval(input())
